@@ -56,7 +56,7 @@ html {
 
 .main-down {
 	position: absolute;
-	bottom: 2rem;
+	bottom: 4.5rem;
 	color: #fff;
 	z-index: 4;
 	display: inline-block;
